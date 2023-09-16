@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "4. Manipulação de Dados/4.1. Dados com Scanner/4.1.3. Lendo String",
+        "4. Manipulação de Dados/4.1. Dados com Scanner/4.1.2. Lendo dados primitivos/4.1.2.2. nextDouble()",
+        "4. Manipulação de Dados/4.1. Dados com Scanner/4.1.1. Criando objeto Scanner",
+        "2. Estrutura de controle/2.1. Condicionais/2.1.3. switch",
+        "2. Estrutura de controle/2.1. Condicionais/2.1.2. else if",
+        "2. Estrutura de controle/2.1. Condicionais/2.1.1. if",
+        "4. Manipulação de Dados/4.1. Dados com Scanner/4.1.2. Lendo dados primitivos/4.1.2.3. nextBoolean()"
+    ]
+}
