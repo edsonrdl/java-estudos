@@ -8,3 +8,4 @@ public class loopWhileEx01 {
      System.out.println("Fim da execução");
     }
 }
+//No while ele testa  e se já satisfazer a condição ele não executa 
