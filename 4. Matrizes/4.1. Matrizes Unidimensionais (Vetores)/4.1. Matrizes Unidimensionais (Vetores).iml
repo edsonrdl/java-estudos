@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/4.1.1. Declaração de vetores" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4.1.2. Acesso a Elementos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4.1.3. Iteração em vetores" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4.1.4. manipulação de vetores" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
