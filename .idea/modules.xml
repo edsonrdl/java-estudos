@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1. Variáveis e tipos de dados/1. Variáveis e tipos de dados.iml" filepath="$PROJECT_DIR$/1. Variáveis e tipos de dados/1. Variáveis e tipos de dados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2. Estrutura de controle/2.1. Condicionais/2.1. Condicionais.iml" filepath="$PROJECT_DIR$/2. Estrutura de controle/2.1. Condicionais/2.1. Condicionais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2. Estrutura de controle/2.2. loops/2.2.1 for/2.2.1 for.iml" filepath="$PROJECT_DIR$/2. Estrutura de controle/2.2. loops/2.2.1 for/2.2.1 for.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2. Estrutura de controle/2.2. loops/2.2.2. while/2.2.2. while.iml" filepath="$PROJECT_DIR$/2. Estrutura de controle/2.2. loops/2.2.2. while/2.2.2. while.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2. Estrutura de controle/2.2. loops/2.2.3. do...while/2.2.3. do...while.iml" filepath="$PROJECT_DIR$/2. Estrutura de controle/2.2. loops/2.2.3. do...while/2.2.3. do...while.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3. Array/3. Array.iml" filepath="$PROJECT_DIR$/3. Array/3. Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3. Array/3.3. Manipulação de Arrays/3.3. Manipulação de Arrays.iml" filepath="$PROJECT_DIR$/3. Array/3.3. Manipulação de Arrays/3.3. Manipulação de Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3. Array/3.4. Iteração de arrays/3.4. Iteração de arrays.iml" filepath="$PROJECT_DIR$/3. Array/3.4. Iteração de arrays/3.4. Iteração de arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4. Matrizes/4.1. Matrizes Unidimensionais (Vetores)/4.1. Matrizes Unidimensionais (Vetores).iml" filepath="$PROJECT_DIR$/4. Matrizes/4.1. Matrizes Unidimensionais (Vetores)/4.1. Matrizes Unidimensionais (Vetores).iml" />
+      <module fileurl="file://$PROJECT_DIR$/4. Matrizes/4.2. Matrizes Bidimensionais/4.2. Matrizes Bidimensionais.iml" filepath="$PROJECT_DIR$/4. Matrizes/4.2. Matrizes Bidimensionais/4.2. Matrizes Bidimensionais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6. Manipulação de Dados/6.1. Dados com Scanner/6.1. Dados com Scanner.iml" filepath="$PROJECT_DIR$/6. Manipulação de Dados/6.1. Dados com Scanner/6.1. Dados com Scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6. Manipulação de Dados/6.1. Dados com Scanner/6.1.2. Lendo dados primitivos/6.1.2. Lendo dados primitivos.iml" filepath="$PROJECT_DIR$/6. Manipulação de Dados/6.1. Dados com Scanner/6.1.2. Lendo dados primitivos/6.1.2. Lendo dados primitivos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7. Programação orientada a objetos/7. Programação orientada a objetos.iml" filepath="$PROJECT_DIR$/7. Programação orientada a objetos/7. Programação orientada a objetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-estudos.iml" filepath="$PROJECT_DIR$/java-estudos.iml" />
+    </modules>
+  </component>
+</project>
